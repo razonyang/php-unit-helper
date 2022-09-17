@@ -10,7 +10,7 @@
 ## Installation
 
 ```bash
-composer require razonyang/unit-helper --prefer-dist
+composer require razonyang/unit-helper --prefer-dist --dev
 ```
 
 ## Helpers

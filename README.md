@@ -5,6 +5,7 @@
 [![Build Status](https://github.com/razonyang/php-unit-helper/actions/workflows/build.yml/badge.svg)](https://github.com/razonyang/php-unit-helper/actions)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/razonyang/php-unit-helper/badges/quality-score.png?b=main)](https://scrutinizer-ci.com/g/razonyang/php-unit-helper/?branch=main)
 [![Code Coverage](https://scrutinizer-ci.com/g/razonyang/php-unit-helper/badges/coverage.png?b=main)](https://scrutinizer-ci.com/g/razonyang/php-unit-helper/?branch=main)
+[![StyleCI](https://github.styleci.io/repos/537817860/shield?branch=main)](https://github.styleci.io/repos/537817860?branch=main)
 
 
 ## Installation
